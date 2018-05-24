@@ -1,7 +1,7 @@
 {
   "search": {
     "version": "0.0.0",
-    "styles": "/dist/gb-search-ui-0.0.0.css",
-    "script": "/dist/gb-search-ui-0.0.0.js"
+    "script": "/dist/gb-search-ui-0.0.0.js",
+    "styles": "/dist/gb-search-ui-0.0.0.css"
   }
 }
